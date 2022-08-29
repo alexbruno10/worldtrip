@@ -24,8 +24,7 @@ export function Header() {
                     <Image src="/img/Modern.svg" alt="Prédio" />
                     <Image src="/img/Classic.svg" alt="Arquiteturas clássicas" />
                     <Image src="/img/More.svg" alt="Mais opções" />
-                    
-               
+                
 
                 </HStack>
 
