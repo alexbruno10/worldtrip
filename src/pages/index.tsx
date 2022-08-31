@@ -1,11 +1,15 @@
 import type { NextPage } from 'next'
-import { Content } from './components/Content/Content'
-import { Header } from './components/Header/Header'
+import { Banner } from './components/Banner'
+import { Content } from './components/Content'
+import { Header } from './components/Header'
+import { TravelTypes } from './components/TravelTypes'
 
 const Home: NextPage = () => {
   return (
     <>
     <Header />
+    <Banner />
+    <TravelTypes />
     <Content />
     </>
   )

@@ -15,27 +15,6 @@ export function Content() {
     return(
         <>
 
-      <Flex
-      w="100%" maxW="1240px" mx="auto" mt="4rem" justify="center" align="center"
-      
-      >
-        <Flex align="center" justify="center">
-          <Stack>
-            <Flex align="center" justify="center">
-              <Stack>
-              <Heading>Vamos nessa?</Heading>
-              </Stack>
-            </Flex>
-            <Flex>
-              <Stack>
-              <Heading>Então escolha seu continente</Heading>
-              </Stack>
-            </Flex>
-          </Stack>
-        </Flex>
-        
-      </Flex>    
-
       <Flex w="100%" maxW="1240px" mx="auto" mb={["5", "10"]} h={[ "250px", "450px" ]} mt="4rem">
         
 
